@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<array>
+		<string>Assault Rifle Ribbon</string>
+		<string>r01.png</string>
+		<string>200 XP - In a round, kill seven enemies with Assault Rifles</string>
+	</array>
+	<key>Item 1</key>
+	<array>
+		<string>Light Machine Gun Ribbon</string>
+		<string>r03.png</string>
+		<string>200XP - In a round, kill seven enemies with Light Machine Guns</string>
+	</array>
+	<key>Item 2</key>
+	<array>
+		<string>Carbine Ribbon</string>
+		<string>r02.png</string>
+		<string>200XP - In a round, kill seven enemies with Carbines</string>
+	</array>
+	<key>Item 3</key>
+	<array>
+		<string>Hand Gun Ribbon</string>
+		<string>r05.png</string>
+		<string>200XP - In a round, kill four enemies with Handguns</string>
+	</array>
+	<key>Item 4</key>
+	<array>
+		<string>Sniper Rifle Ribbon</string>
+		<string>r04.png</string>
+		<string>200XP - In a round, kill seven enemies with Sniper RIfles</string>
+	</array>
+	<key>Item 5</key>
+	<array>
+		<string>PDW Ribbon</string>
+		<string>r07.png</string>
+		<string>200XP - In a round, kill seven enemies with Personal Defence Weapons</string>
+	</array>
+	<key>Item 6</key>
+	<array>
+		<string>Shotgun Ribbon</string>
+		<string>r06.png</string>
+		<string>200XP - In a round, kill seven enemies with Shotguns</string>
+	</array>
+	<key>Item 7</key>
+	<array>
+		<string>Mêlée Ribbon</string>
+		<string>r08.png</string>
+		<string>200XP - In a round, kill four enemies with your knife</string>
+	</array>
+	<key>Item 8</key>
+	<array>
+		<string>Avenger Ribbon</string>
+		<string>r13.png</string>
+		<string>200XP - In a round, make two Avenger kills</string>
+	</array>
+	<key>Item 9</key>
+	<array>
+		<string>Saviour Ribbon</string>
+		<string>r13.png</string>
+		<string>200XP - In a round, make two Saviour kills</string>
+	</array>
+	<key>Item 10</key>
+	<array>
+		<string>Nemesis Ribbon</string>
+		<string>r14.png</string>
+		<string>200XP - In a round, make two Nemesis kills</string>
+	</array>
+	<key>Item 11</key>
+	<array>
+		<string>Accuracy Ribbon</string>
+		<string>r11.png</string>
+		<string>200XP - In a round, get five headshots</string>
+	</array>
+	<key>Item 12</key>
+	<array>
+		<string>Suppression Ribbon</string>
+		<string>r15.png</string>
+		<string>200XP - In a round, get seven Suppression Assists</string>
+	</array>
+	<key>Item 13</key>
+	<array>
+		<string>Anti-Explosives Ribbon</string>
+		<string>r21.png</string>
+		<string>200XP - In a round, destroy two enemy Explosives</string>
+	</array>
+	<key>Item 14</key>
+	<array>
+		<string>Squad Spawn Ribbon</string>
+		<string>r22.png</string>
+		<string>200XP - In a round, be spawned on by Squadmates seven times</string>
+	</array>
+	<key>Item 15</key>
+	<array>
+		<string>Squad Wipe Ribbon</string>
+		<string>r23.png</string>
+		<string>200XP - In a round, get two Squad Wipe bonuses</string>
+	</array>
+	<key>Item 16</key>
+	<array>
+		<string>Combat Efficiency Ribbon</string>
+		<string>r20.png</string>
+		<string>500XP - In a round, get three Streak bonuses</string>
+	</array>
+	<key>Item 17</key>
+	<array>
+		<string>Medical Efficiency Ribbon</string>
+		<string>r44.png</string>
+		<string>200XP - In a round, revive five Teammates</string>
+	</array>
+	<key>Item 18</key>
+	<array>
+		<string>Resupply Efficiency Ribbon</string>
+		<string>r42.png</string>
+		<string>200XP - In a round, resupply seven Teammates</string>
+	</array>
+	<key>Item 19</key>
+	<array>
+		<string>Maintenance Efficiency RIbbon</string>
+		<string>r43.png</string>
+		<string>200XP - In a round, repair seven friendly Vehicles</string>
+	</array>
+	<key>Item 20</key>
+	<array>
+		<string>Surveillance Efficiency RIbbon</string>
+		<string>r45.png</string>
+		<string>200XP - In a round, get five Motion Sensor Assists</string>
+	</array>
+	<key>Item 21</key>
+	<array>
+		<string>Anti-Vehicle Ribbon</string>
+		<string>r10.png</string>
+		<string>200XP - In a round, destroy three enemy Vehicles</string>
+	</array>
+	<key>Item 22</key>
+	<array>
+		<string>Disable Vehicle Ribbon</string>
+		<string>r09.png</string>
+		<string>200XP - In a round, disable four enemy Vehicles</string>
+	</array>
+	<key>Item 23</key>
+	<array>
+		<string>Air Warfare Ribbon</string>
+		<string>r27.png</string>
+		<string>200XP - In a round, kill six enemies with Air Vehicles</string>
+	</array>
+	<key>Item 24</key>
+	<array>
+		<string>Stationary Emplacement Ribbon</string>
+		<string>r26.png</string>
+		<string>200XP - In a round, kill two enemies with Stationary Emplacements</string>
+	</array>
+	<key>Item 25</key>
+	<array>
+		<string>Transport Warfare Ribbon</string>
+		<string>r24.png</string>
+		<string>200XP - In a round, kill four enemies with transport vehicles</string>
+	</array>
+	<key>Item 26</key>
+	<array>
+		<string>Armoured Warfare Ribbon</string>
+		<string>r25.png</string>
+		<string>200XP - In a round, kill seven enemies with Armoured Vehicles</string>
+	</array>
+	<key>Item 27</key>
+	<array>
+		<string>Ace Squad Ribbon</string>
+		<string>r19.png</string>
+		<string>500XP - In a round, be part of the best Squad</string>
+	</array>
+	<key>Item 28</key>
+	<array>
+		<string>MVP Ribbon</string>
+		<string>r16.png</string>
+		<string>500XP - In a round, be the Most Valuable Player</string>
+	</array>
+	<key>Item 29</key>
+	<array>
+		<string>MVP 2 RIbbon</string>
+		<string>r17.png</string>
+		<string>400XP - In a round, be the second Most Valuable Player</string>
+	</array>
+	<key>Item 30</key>
+	<array>
+		<string>MVP 3 Ribbon</string>
+		<string>r18.png</string>
+		<string>300XP - In a round, be the third Most Valuable Player</string>
+	</array>
+	<key>Item 31</key>
+	<array>
+		<string>M-COM Attacker Ribbon</string>
+		<string>r28.png</string>
+		<string>200XP - In a round, destroy three M-COM Stations</string>
+	</array>
+	<key>Item 32</key>
+	<array>
+		<string>M-COM Defender Ribbons</string>
+		<string>r29.png</string>
+		<string>200XP - In a round, defend four M-COM Stations</string>
+	</array>
+	<key>Item 33</key>
+	<array>
+		<string>Flag Attacker Ribbon</string>
+		<string>r40.png</string>
+		<string>200XP - In a round, capture four Flags</string>
+	</array>
+	<key>Item 34</key>
+	<array>
+		<string>Flag Defender Ribbon</string>
+		<string>r41.png</string>
+		<string>200XP - In a round, defend five Flags</string>
+	</array>
+	<key>Item 35</key>
+	<array>
+		<string>Squad Rush Ribbon</string>
+		<string>r38.png</string>
+		<string>200XP - Finish a Squad Rush round</string>
+	</array>
+	<key>Item 36</key>
+	<array>
+		<string>Squad Deathmatch Ribbon</string>
+		<string>r39.png</string>
+		<string>200XP - Finish a Squad Deathmatch round</string>
+	</array>
+	<key>Item 37</key>
+	<array>
+		<string>Rush Ribbon</string>
+		<string>r35.png</string>
+		<string>200XP - Finish a Rush round</string>
+	</array>
+	<key>Item 38</key>
+	<array>
+		<string>Conquest Ribbon</string>
+		<string>r36.png</string>
+		<string>200XP - Finish a Conquest round</string>
+	</array>
+	<key>Item 39</key>
+	<array>
+		<string>Team Deathmatch Ribbon</string>
+		<string>r37.png</string>
+		<string>200XP - Finish a Team Deathmatch round</string>
+	</array>
+	<key>Item 40</key>
+	<array>
+		<string>Squad Deathmatch Winner Ribbon</string>
+		<string>r34.png</string>
+		<string>500XP - Win a round of Squad Deathmatch</string>
+	</array>
+	<key>Item 41</key>
+	<array>
+		<string>Squad Rush Winner Ribbon</string>
+		<string>r30.png</string>
+		<string>500XP - Win a round of Squad Rush</string>
+	</array>
+	<key>Item 42</key>
+	<array>
+		<string>Rush Winner Ribbon</string>
+		<string>r30.png</string>
+		<string>500XP - Win a round of Rush</string>
+	</array>
+	<key>Item 43</key>
+	<array>
+		<string>Conquest Winner Ribbon</string>
+		<string>r31.png</string>
+		<string>500XP - Win a round of Conquest</string>
+	</array>
+	<key>Item 44</key>
+	<array>
+		<string>Team Deathmatch Winner Ribbon</string>
+		<string>r32.png</string>
+		<string>Win a round of Team Deathmatch</string>
+	</array>
+</dict>
+</plist>

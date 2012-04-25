@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Assault Rifles</key>
+	<array>
+		<string>M16A4</string>
+		<string>M416</string>
+		<string>F2000</string>
+		<string>AEK-971</string>
+		<string>AK-74M</string>
+		<string>AN-94</string>
+		<string>AS VAL</string>
+		<string>G3</string>
+		<string>Khaybar KH-2000</string>
+		<string>FAMAS</string>
+		<string>L85A2</string>
+	</array>
+	<key>Sniper Rifles</key>
+	<array>
+		<string>MK11</string>
+		<string>SVD</string>
+		<string>M40A5</string>
+		<string>SV98</string>
+		<string>M98B</string>
+		<string>M39</string>
+		<string>SKS</string>
+		<string>QBU-88</string>
+		<string>L96</string>
+	</array>
+	<key>Machine Guns</key>
+	<array>
+		<string>M27</string>
+		<string>RPK</string>
+		<string>M249</string>
+		<string>M240</string>
+		<string>M60</string>
+		<string>PKP Pecheneg</string>
+		<string>Type 88</string>
+		<string>QBB-95</string>
+		<string>MG36</string>
+	</array>
+	<key>SMGs and Carbines</key>
+	<array>
+		<string>UMP-45</string>
+		<string>AKS 74U</string>
+		<string>M4A1</string>
+		<string>SCAR-H</string>
+		<string>G36C</string>
+		<string>SG553</string>
+		<string>P90</string>
+		<string>MP7</string>
+		<string>PP-2000</string>
+		<string>PDR-W</string>
+		<string>A-91</string>
+		<string>G53</string>
+		<string>QBZ-95B</string>
+	</array>
+	<key>Shotguns</key>
+	<array>
+		<string>870MCS</string>
+		<string>Saiga 12</string>
+		<string>USAS 12</string>
+		<string>DAO 12</string>
+		<string>M1014</string>
+	</array>
+	<key>Pistols</key>
+	<array>
+		<string>Beretta M9</string>
+		<string>MP-443 Grach</string>
+		<string>93R</string>
+		<string>M1911</string>
+		<string>Glock 17</string>
+		<string>Glock 18</string>
+		<string>MP412 REX</string>
+		<string>44 Magnum</string>
+	</array>
+	<key>Rocket Launcher</key>
+	<array>
+		<string>RPG-7</string>
+		<string>SMAW</string>
+		<string>Javelin</string>
+		<string>FIM-92 Stinger</string>
+		<string>SA-18 IGLA</string>
+	</array>
+</dict>
+</plist>

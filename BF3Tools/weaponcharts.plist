@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Assault Rifles</key>
+	<array>
+		<string>AK-74M</string>
+		<string>M16A4</string>
+		<string>M416</string>
+		<string>AEK971</string>
+		<string>F2000</string>
+		<string>AN-94</string>
+		<string>G3</string>
+		<string>Khaybar KH-2000</string>
+	</array>
+	<key>SMGs and Carbines</key>
+	<array>
+		<string>M4A1</string>
+		<string>AKS-74u</string>
+		<string>SG553</string>
+		<string>A91</string>
+		<string>G36C</string>
+		<string>SCAR-H</string>
+	</array>
+	<key>Machine Guns</key>
+	<array>
+		<string>M27</string>
+		<string>RPK-74M</string>
+		<string>M249</string>
+		<string>Type 88</string>
+		<string>PKP Pecheneg</string>
+		<string>M240</string>
+		<string>M60</string>
+	</array>
+	<key>PDW</key>
+	<array>
+		<string>PP-2000</string>
+		<string>UMP-45</string>
+		<string>MP7</string>
+		<string>ASVal</string>
+		<string>PDW-R</string>
+		<string>P90</string>
+	</array>
+</dict>
+</plist>

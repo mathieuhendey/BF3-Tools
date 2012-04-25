@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<array>
+		<string>Stationary Service Medal</string>
+		<string>m50.png</string>
+		<string>Spend two hours in Stationary Weapons</string>
+	</array>
+	<key>Item 1</key>
+	<array>
+		<string>Helicopter Service Medal</string>
+		<string>m48.png</string>
+		<string>Spend twenty hours in Helicopters</string>
+	</array>
+	<key>Item 2</key>
+	<array>
+		<string>Jet Service Medal</string>
+		<string>m49.png</string>
+		<string>Spend twenty hours in Jets</string>
+	</array>
+	<key>Item 3</key>
+	<array>
+		<string>RU Army Service Medal</string>
+		<string>m42.png</string>
+		<string>Spend one-hundred hours in the RU Army</string>
+	</array>
+	<key>Item 4</key>
+	<array>
+		<string>Assault Service Medal</string>
+		<string>m43.png</string>
+		<string>Spend fifty hours as Assault class</string>
+	</array>
+	<key>Item 5</key>
+	<array>
+		<string>Radio Beacon Medal</string>
+		<string>m40.png</string>
+		<string>Have one-hundred spawns on your Radio Beacons</string>
+	</array>
+	<key>Item 6</key>
+	<array>
+		<string>US Marines Service Medal</string>
+		<string>m41.png</string>
+		<string>Spend one-hundred hours in the US Marines</string>
+	</array>
+	<key>Item 7</key>
+	<array>
+		<string>Recon Service Medal</string>
+		<string>m46.png</string>
+		<string>Spend fifty hours as Recon class</string>
+	</array>
+	<key>Item 8</key>
+	<array>
+		<string>Tank Service Medal</string>
+		<string>m47.png</string>
+		<string>Spend twenty hours in Tanks</string>
+	</array>
+	<key>Item 9</key>
+	<array>
+		<string>Engineer Service Medal</string>
+		<string>m44.png</string>
+		<string>Spend fifty hours as Engineer class</string>
+	</array>
+	<key>Item 10</key>
+	<array>
+		<string>3rd MVP Medal</string>
+		<string>m17.png</string>
+		<string>Obtain 3rd MVP Ribbon fifty times</string>
+	</array>
+	<key>Item 11</key>
+	<array>
+		<string>Combat Efficiency Medal</string>
+		<string>m19.png</string>
+		<string>Obtain Combat Efficiency ribbon fifty times</string>
+	</array>
+	<key>Item 12</key>
+	<array>
+		<string>Support Service Medal</string>
+		<string>m45.png</string>
+		<string>Spend fifty hours as Support class</string>
+	</array>
+	<key>Item 13</key>
+	<array>
+		<string>M18 Claymore Medal</string>
+		<string>m39derplol.png</string>
+		<string>Kill three-hundred enemies with Claymores</string>
+	</array>
+	<key>Item 14</key>
+	<array>
+		<string>Laser Designator Medal</string>
+		<string>m38.png</string>
+		<string>Paint three-hundred targets with the Laser Designator</string>
+	</array>
+	<key>Item 15</key>
+	<array>
+		<string>Mortar Medal</string>
+		<string>m37.png</string>
+		<string>Kill three-hundred enemies with the Mortar</string>
+	</array>
+	<key>Item 16</key>
+	<array>
+		<string>Surveillance Medal</string>
+		<string>m36.png</string>
+		<string>Obtain the Surveillance Ribbon fifty times</string>
+	</array>
+	<key>Item 17</key>
+	<array>
+		<string>Medical Medal</string>
+		<string>m35.png</string>
+		<string>Obtain the Medical Ribbon fifty times</string>
+	</array>
+	<key>Item 18</key>
+	<array>
+		<string>Maintenance Medal</string>
+		<string>m34.png</string>
+		<string>Obtain the Maintenance Ribbon fifty times</string>
+	</array>
+	<key>Item 19</key>
+	<array>
+		<string>Resupply Medal</string>
+		<string>m33.png</string>
+		<string>Obtain the Resupply Ribbon fifty times</string>
+	</array>
+	<key>Item 20</key>
+	<array>
+		<string>Flag Defender Medal</string>
+		<string>m32.png</string>
+		<string>Obtain the Flag Defender Ribbon fifty times</string>
+	</array>
+	<key>Item 21</key>
+	<array>
+		<string>Flag Attacker Medal</string>
+		<string>m31.png</string>
+		<string>Obtain the Flag Attacker Ribbon fifty times</string>
+	</array>
+	<key>Item 22</key>
+	<array>
+		<string>Squad Deathmatch Medal</string>
+		<string>m30.png</string>
+		<string>Obtain the Squad Deathmatch Ribbon fifty times</string>
+	</array>
+	<key>Item 23</key>
+	<array>
+		<string>Team Deathmatch Ribbon</string>
+		<string>m28.png</string>
+		<string>Obtain the Team Deathmatch Ribbon fifty times</string>
+	</array>
+	<key>Item 24</key>
+	<array>
+		<string>Squad Rush Medal</string>
+		<string>m29.png</string>
+		<string>Obtain the Squad Rush Ribbon fifty times</string>
+	</array>
+	<key>Item 25</key>
+	<array>
+		<string>M-COM Attacker Medal</string>
+		<string>m24.png</string>
+		<string>Obtain the M-COM Atacker Ribbon fifty times</string>
+	</array>
+	<key>Item 26</key>
+	<array>
+		<string>M-COM Defender Medal</string>
+		<string>m25.png</string>
+		<string>Obtain the M-COM Defender ribbon fifty times</string>
+	</array>
+	<key>Item 27</key>
+	<array>
+		<string>Rush Medal</string>
+		<string>m26.png</string>
+		<string>Obtain the Rush Ribbon fifty times</string>
+	</array>
+	<key>Item 28</key>
+	<array>
+		<string>Conquest Medal</string>
+		<string>m27derplol.png</string>
+		<string>Obtain the Conquest Ribbon fifty times</string>
+	</array>
+	<key>Item 29</key>
+	<array>
+		<string>Transport Warfare Medal</string>
+		<string>m20.png</string>
+		<string>Obtain the Transport Warfare Ribbon fifty times</string>
+	</array>
+	<key>Item 30</key>
+	<array>
+		<string>Armoured Warfare Medal</string>
+		<string>m21.png</string>
+		<string>Obtain the Armoured Warfare Ribbon thirty times</string>
+	</array>
+	<key>Item 31</key>
+	<array>
+		<string>Air Warfare Medal</string>
+		<string>m22.png</string>
+		<string>Obtain the Air Warfare Ribbon thirty times</string>
+	</array>
+	<key>Item 32</key>
+	<array>
+		<string>Stationary Embankment Medal</string>
+		<string>m23.png</string>
+		<string>Obtain the Stationary Embankment Ribbon thirty times</string>
+	</array>
+	<key>Item 33</key>
+	<array>
+		<string>Avenger Medal</string>
+		<string>m11.png</string>
+		<string>Obtain the Avenger Ribbon fifty times</string>
+	</array>
+	<key>Item 34</key>
+	<array>
+		<string>Accuracy Medal</string>
+		<string>m10.png</string>
+		<string>Obtain the Marksman RIbbon fifty times</string>
+	</array>
+	<key>Item 35</key>
+	<array>
+		<string>Nemesis Medal</string>
+		<string>m13.png</string>
+		<string>Obtain the Nemesis Ribbon fifty times</string>
+	</array>
+	<key>Item 36</key>
+	<array>
+		<string>Saviour Medal</string>
+		<string>m12.png</string>
+		<string>Obtain the Saviour Medal fifty times</string>
+	</array>
+	<key>Item 37</key>
+	<array>
+		<string>MVP Medal</string>
+		<string>m15.png</string>
+		<string>Obtain the MVP Ribbon fifty times</string>
+	</array>
+	<key>Item 38</key>
+	<array>
+		<string>Suppression Medal</string>
+		<string>m14.png</string>
+		<string>Obtain the Suppression Ribbon fifty times</string>
+	</array>
+	<key>Item 39</key>
+	<array>
+		<string>2nd MVP Medal</string>
+		<string>m16.png</string>
+		<string>Obtain the 2nd MVP Ribbon fifty times</string>
+	</array>
+	<key>Item 40</key>
+	<array>
+		<string>Ace Squad Medal</string>
+		<string>m18.png</string>
+		<string>Obtain the Ace Squad Ribbon fifty times</string>
+	</array>
+	<key>Item 41</key>
+	<array>
+		<string>Shotgun Medal</string>
+		<string>m06.png</string>
+		<string>Obtain the Shotgun Ribbon fifty times</string>
+	</array>
+	<key>Item 42</key>
+	<array>
+		<string>PDW Medal</string>
+		<string>m07.png</string>
+		<string>Obtain the PDW Ribbon fifty times</string>
+	</array>
+	<key>Item 43</key>
+	<array>
+		<string>Sniper Rifle Medal</string>
+		<string>m04.png</string>
+		<string>Obtain the Sniper Rifle Ribbon fifty times</string>
+	</array>
+	<key>Item 44</key>
+	<array>
+		<string>Handgun Medal</string>
+		<string>m05.png</string>
+		<string>Obtain the Handgun Ribbon fifty times</string>
+	</array>
+	<key>Item 45</key>
+	<array>
+		<string>Carbin Medal</string>
+		<string>m02.png</string>
+		<string>Obtain the Carbine Ribbon fifty times</string>
+	</array>
+	<key>Item 46</key>
+	<array>
+		<string>Light Machine Gun Medal</string>
+		<string>m03.png</string>
+		<string>Obtain the Light Machine Gun Ribbon fifty times</string>
+	</array>
+	<key>Item 47</key>
+	<array>
+		<string>Assault Rifle Medal</string>
+		<string>m01.png</string>
+		<string>Obtain the Assault Rifle Ribbon fifty times</string>
+	</array>
+	<key>Item 48</key>
+	<array>
+		<string>Anti-Vehicle Medal</string>
+		<string>m09.png</string>
+		<string>Obtain the Anti-Vehicle Ribbon fifty times</string>
+	</array>
+	<key>Item 49</key>
+	<array>
+		<string>Mêlée Medal</string>
+		<string>m08.png</string>
+		<string>Obtain the Mêlée RIbbon thirty times</string>
+	</array>
+</dict>
+</plist>

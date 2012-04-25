@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>870MCS</key>
+	<array>
+		<string>The 870MCS (Remington 870) is a Pump-Action Shotgun made by US weapon manufacturer Remington. It was designed and produced in 1951. All Shotguns in Battlefield 3 use the 12 Gauge 00 Buckshot cartridge by default, effective at close range.
+
+A powerful close range weapon, it has the strength to kill up close in one shot, two if further away. It is also versatile, utilizing a myriad of scope attachments and ammunition types, transforming this close range shotgun into a mid range weapon. However, the empty reload is very slow, having the user load a shell into the breech before loading them into the magazine, making it advisable to save the last shot unless necessary.
+</string>
+		<string>Stats
+
+Unlocked:	 Rank 1
+Kit:	 All
+Magazine Size:	 4 Rounds
+Extended Mag:	 6 Rounds
+Starting Ammo:	 5 / 30
+Max Ammo:	 5 / 50
+E. Mag Starting Ammo:	 7 / 28
+E. Mag Max Ammo:	 7 / 49
+Reload Time:	 1 - 7 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Pump Action</string>
+		<string>sg870</string>
+	</array>
+	<key>Saiga 12</key>
+	<array>
+		<string>The SAIGA-12K is a Russian, magazine fed, 12G Shotgun. The original (Saiga-12) was designed in the 1990s. Since it uses a magazine, it reloads a lot faster than the M1014 or 870MCS. All Shotguns in Battlefield 3 use the 12 Gauge 00 Buckshot cartridge by default, effective at close range.</string>
+		<string>Stats
+
+Unlocked:	 Rank 34
+Kit:	 All
+Magazine Size: 5 Rounds
+Extended Mag:	 8 Rounds
+Starting Ammo:	 6 / 30
+Max Ammo:	 6 / 48
+E. Mag Starting Ammo:	 9 / 27
+E. Mag Max Ammo:	 9 / 45
+Reload Time:	 2 - 3 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>sgSaiga</string>
+	</array>
+	<key>USAS 12</key>
+	<array>
+		<string>The USAS-12 is a Shotgun made by South Korean weapon manufacturer Daewoo Precision Industries in the 1980s. Since it uses a magazine, it reloads a lot faster than the M1014 or 870MCS. All Shotguns in Battlefield 3 use the 12 Gauge 00 Buckshot cartridge by default, effective at close range.</string>
+		<string>Stats
+
+Unlocked:	 Rank 43
+Kit:	 All
+Magazine Size:	 6 Rounds
+Extended Mag:	 10 Rounds
+Starting Ammo:	 7 / 21
+Max Ammo:	 7 / 35
+E. Mag Starting Ammo:	 11 / 22
+E. Mag Max Ammo:	 11 / 44
+Reload Time:	 2.5 - 3.5 Seconds
+Rate of Fire:	 300 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>sgUSAS</string>
+	</array>
+	<key>DAO 12</key>
+	<array>
+		<string>The DAO-12 is basically the combination of a revolver and a shotgun. The drum magazine moves in place like a revolver. All Shotguns in Battlefield 3 use the 12 Gauge 00 Buckshot cartridge by default, effective at close range.
+
+The DAO-12 is a close range powerhouse, able to decimate enemies with it&apos;s large magazine size and quick firing rate. With a standard 8 round magazine, it allows for a wall of lead to fire out in front of the gun. But these 8 rounds can be expended quickly, forcing the player to reload, a slow process due to the fact that each shell can only be loaded into the gun one at a time.</string>
+		<string>Stats
+
+Unlocked:	 Rank 38
+Kit:	 All
+Magazine Size:	 8
+Extended Mag:	 12 Rounds
+Starting Ammo:	 8 / 24
+Max Ammo:	 8 / 40
+E. Mag Starting Ammo:	 12 / 12
+E. Mag Max Ammo:	 12 / 24
+Reload Time:	 1.5 - 11 Rounds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>sgDAO</string>
+	</array>
+	<key>M1014</key>
+	<array>
+		<string>The M1014 (Benelli M4 Super 90) is an Italian Shotgun, designed in 1998. It is used by many nations, including the United States. All Shotguns in Battlefield 3 use the 12 Gauge 00 Buckshot cartridge by default, effective at close range.</string>
+		<string>Stats
+
+Unlocked:	 Rank 22
+Kit:	 All
+Magazine Size:	 4 Rounds
+Extended Mag:	 6 Rounds
+Starting Ammo:	 5 / 30
+Max Ammo:	 5 / 50
+E. Mag Starting Ammo:	 7 / 28
+E. Mag Max Ammo:	 7 / 49
+Reload Time:	 1 - 7 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>sgM1014</string>
+	</array>
+	<key>M16A4</key>
+	<array>
+		<string>The M16A3 has been featured in all Battlefield games since Battlefield 2, where it was the default assault rifle for the Assault class on the USMC side. The M16A4 is the main assault rifle for the US Assault class.
+</string>
+		<string>Stats
+
+Unlocked:	 89,000 AS
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 1.8 - 2.2 Seconds
+Rate of Fire:	 800 RPM
+Fire Modes:	 3 Round / Semi Auto</string>
+		<string>arM16</string>
+	</array>
+	<key>M416</key>
+	<array>
+		<string>The M416 is an unlock in Battlefield 3 for the Assault class, and is unlocked early in the unlock-stage. The M16 can be unlocked by both the US and Russian forces in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 22,000 AS
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2 - 2.5 Seconds
+Rate of Fire:	 750 RPM
+Fire Modes:	 Full Auto / 3 Round / Semi Auto</string>
+		<string>arM416</string>
+	</array>
+	<key>F2000</key>
+	<array>
+		<string>The F2000 (or FN2000) is an unlockable assault rifle for the Assault/Medic class in Battlefield 3, and is unlocked at a later stage in the unlock-tree.
+</string>
+		<string>Stats
+
+Unlocked:	 124,000 AS
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 3 - 3.5 Seconds
+Rate of Fire:	 850 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>arF2</string>
+	</array>
+	<key>AEK-971</key>
+	<array>
+		<string>The AEK-971 is a Soviet / Russian select-fire assault rifle made by the Kovrov Machinebuilding Plant in the 1980s. It fires the 5.45x39mm WP cartridge. Like all Assault Rifles in BF3, it can reach out to long ranges.
+
+A versatile weapon, its strengths shine in its controllable recoil, open iron sights, and most importantly, a 3 round burst firing mode. This allows for effective and controlled shots, making quick work of any mid range foes. This mode is best used with a mid range scope, allowing the crosshairs stay on target after each shot. As with other 3 round burst weapons, timing the trigger pulls correctly will have the weapon fire full auto. Also, there are ten full trigger pulls of 3 rounds each, plus one extra round from a fully loaded gun.
+
+The weakness of the AEK comes from its painfully slow reload, especially from a dry reload. This can make fighting a long range target a pain, due to the long amount of time required to put in a new magazine.
+
+</string>
+		<string>Stats
+
+Unlocked:	 60,000 AS
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2.5 - 3 Seconds
+Rate of Fire:	 750 RPM
+Fire Modes:	 Full Auto / 3 Round / Semi Auto</string>
+		<string>arAEK</string>
+	</array>
+	<key>AK-74M</key>
+	<array>
+		<string>The AK-74M is a modernized version of the Russian AK-74 Assault Rifle. The AK-74M was first manufactured in 1991. It fires the 5.45x39mm WP cartridge. Like all Assault Rifles in BF3, it can reach out to long ranges.
+
+The starting weapon for Russian forces, it has a slower firing rate but slightly more powerful bullets than it&apos;s American counterpart, the M16A3. Easy to use with no glaring weaknesses, the AK-74M is effective at almost any range. However, the powerful rounds it fires makes long distance, semi automatic firefights slightly easier.</string>
+		<string>Stats
+
+Unlocked:	 Default (RU) / 220,000 AS (US)
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2 - 2.7 Seconds
+Rate of Fire:	 650 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>arAK74</string>
+	</array>
+	<key>AN-94</key>
+	<array>
+		<string>The Russian-designed AN-94 is a replacement for the famous Kalashnikov rifle. It has a revolutionary way of firing two bullets before the recoil kicks in, which gives it unique two-shot burst with great accuracy. The AN-94 is a late stage unlock in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 166,000 AS
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2.8 - 3.5 Seconds
+Rate of Fire:	 600 RPM
+Fire Modes:	 Full Auto / 2 Round</string>
+		<string>arAN94</string>
+	</array>
+	<key>AS VAL</key>
+	<array>
+		<string>The AS VAL (Special Automatic Rifle) is a Soviet Assault Rifle designed in the 1980s. It fires the armor piercing 9x39mm round through the standard Suppressor. The Suppressor CANNOT be removed.</string>
+		<string>Stats
+
+Unlocked:	 Rank 45
+Kit:	 All
+Magazine Size:	 20 Rounds
+Starting Ammo:	 21 / 105
+Max Ammo:	 21 / 168
+Reload Time:	 1.5 - 2.5 Seconds
+Rate of Fire:	 900 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>smVAL</string>
+	</array>
+	<key>G3</key>
+	<array>
+		<string>The G3 is a popular assault rifle first made by Heckler &amp; Koch in 1959, and is still in use today around the world, especially in third world countries. The G3 will be available in Battlefield 3 as an unlock for the Assault class.
+</string>
+		<string>Stats
+
+Unlocked:	 160,000 CS
+Kit:	 Assault
+Magazine Size:	 20 Rounds
+Starting Ammo:	 21 / 105
+Max Ammo:	 21 / 168
+Reload Time:	 2 - 3 Seconds
+Rate of Fire:	 500 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>arG3</string>
+	</array>
+	<key>Khaybar KH-2000</key>
+	<array>
+		<string>The Khaybar KH-2002 is an Iranian-designed assault rifle made in the early 2000s, and has now entered service in the Iranian military. The KH-2002 is an unlockable assault rifle in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 17,000 CS
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 3.2 - 3.7 Seconds
+Rate of Fire:	 850 RPM
+Fire Modes:	 3 Round / Semi Auto
+</string>
+		<string>arKH</string>
+	</array>
+	<key>Beretta M9</key>
+	<array>
+		<string>The Beretta M9 is a 9mm semi-automatic pistol that is the standard issued sidearm in the US Army. The M9 is the starting gun for the US side in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked	 Default (US)
+Kit:	 All
+Magazine Size:	 15 Rounds
+Starting Ammo:	 16 / 48
+Max Ammo:	 16 / 80
+Reload Time:	 1.5 - 1.6 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>pM9</string>
+	</array>
+	<key>MP-443 Grach</key>
+	<array>
+		<string>The Yarygin MP-443 Grach is a new Russian handgun introduced in 2003 and has since become the main sidearm of the Russian forces, including police departments. The MP-443 Grach is the main starting gun for the Russian side in Battlefield 3.
+</string>
+		<string>Unlocked:	 Default (RU)
+Kit:	 All
+Magazine Size:	 17 Rounds
+Starting Ammo:	 18 / 54
+Max Ammo:	 18 / 90
+Reload Time:	 1.5 - 1.6 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>pMP443</string>
+	</array>
+	<key>93R</key>
+	<array>
+		<string>The Beretta Model 93R is a burst fire version of the M9. Using the same 9mm ammunition, it can fire 3 round bursts. The 93R is an unlockable pistol in Battlefield 3
+</string>
+		<string>Stats
+
+Unlocked:	 86,000 CS
+Kit:	 All
+Magazine Size:	 20 Rounds
+Starting Ammo:	 21 / 63
+Max Ammo:	 21 / 105
+Reload Time:	 1.5 - 1.6 Seconds
+Rate of Fire:	 1100 RPM
+Fire Modes:	 3 Round / Semi Auto
+</string>
+		<string>pM93R</string>
+	</array>
+	<key>M1911</key>
+	<array>
+		<string>Arguably the most widely used and recognized handgun in the world, the M1911 is a weapon that defines the term &quot;defensive sidearm&quot;. It uses a single stack magazine of .45 ACP rounds, with excellent stopping power to take down enemies. Easy to use, highly accurate, and reliable, the M1911 has been the sidearm of choice of the US Armed Forces. However, it is being phased out of use by the M9 Beretta currently.
+
+With a small magazine of 8 rounds compared to other handguns, the M1911 shines in it&apos;s potent stopping power and high accuracy.
+
+You can only unlock the M1911 in Battlefield 3&apos;s Multiplayer through EA&apos;s Gun Club. Sign in using your EA Account, or redeem a code for the Physical Warfare pack included in the Limited Edition.</string>
+		<string>Stats
+
+Unlocked:	 EA Gun Club
+Kit:	 All
+Magazine Size:	 8 Rounds
+Starting Ammo:	 9 / 45
+Max Ammo:	 9 / 72
+Reload Time:	 1.5 - 1.6 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>pM1911</string>
+	</array>
+	<key>Glock 17</key>
+	<array>
+		<string>The Glock 17, introduced in 1982, is one of the most popular pistols in the world. It’s the first pistol to be unlocked in Battlefield 3 and can be used by both US and Russian factions.
+</string>
+		<string>Stats
+
+Unlocked:	 Rank 4
+Kit:	 All
+Magazine Size:	 17 Rounds
+Starting Ammo:	 18 / 54
+Max Ammo:	 18 / 90
+Reload Time:	 1.5 - 1.6 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>pG17</string>
+	</array>
+	<key>Glock 18</key>
+	<array>
+		<string>The Glock 18 is the fully automatic version of the Glock 17 pistol, and can fire 1100 rounds per minute. The Glock 18 is featured in Battlefield 3 as an unlock.
+</string>
+		<string>Stats
+
+Unlocked:	 Rank 30
+Kit:	 All
+Magazine Size:	 19 Rounds
+Starting Ammo:	 20 / 60
+Max Ammo:	 20 / 100
+Reload Time:	 1.5 - 1.6 Seconds
+Rate of Fire:	 1100 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>pg18</string>
+	</array>
+	<key>MP412 REX</key>
+	<array>
+		<string>The MP412 REX is a Russian made .357 magnum hand gun and is one of the most powerful pistols in Battlefield 3.
+</string>
+		<string>Unlocked:	 5,000 CS
+Kit:	 All
+Magazine Size:	 6 Rounds
+Starting Ammo:	 6 / 30
+Max Ammo:	 6 / 48
+Reload Time:	 3.5 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>pM412</string>
+	</array>
+	<key>44 Magnum</key>
+	<array>
+		<string>The Taurus .44 Magnum is the most powerful handgun in Battlefield 3, and can be unlocked and used by all classes and factions.
+</string>
+		<string>Stats
+
+Unlocked:	 Rank 36
+Kit:	 All
+Magazine Size:	 6 Rounds
+Starting Ammo:	 6 / 30
+Max Ammo:	 6 / 48
+Reload Time:	 3.5 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>pTAUR</string>
+	</array>
+	<key>RPG-7</key>
+	<array>
+		<string>The RPG-7 was first introduced in 1961 and has been in service for more than 50 years, and has seen several conflicts, ranging from Vietnam to the gulf war. The RPG-7 is the starting rocket launcher for the Russian side in Battlefield 3.
+</string>
+		<string>RPG-7 stats
+Weight: 7 KG
+Ammo count: 4 rockets
+Effective range: 200 meters
+Maximum range: 900 meters
+Used by: Russian engineer class
+Hits to disable vehicle: 2 direct hits</string>
+		<string>wLATRPG</string>
+	</array>
+	<key>SMAW</key>
+	<array>
+		<string>The SMAW, or Shoulder-Launched Multipurpose Assault Weapon, is a mainly intended as an assault weapon designed to destroy enemy targets and cover. The SMAW is the starting rocket launcher for the US side in battlefield 3.
+</string>
+		<string>SMAW stats
+Weight: 7.5 KG
+Ammo count: 4 rockets
+Effective range: 200 meters
+Maximum range: 500 meters
+Used by: US engineer class
+Hits to disable vehicle: 2 direct hits</string>
+		<string>wLATSMAW</string>
+	</array>
+	<key>Javelin</key>
+	<array>
+		<string>The FGM-148 Javelin is a US-made portable anti tank missile launcher that’s been in use since 1996 and can lock on a target. The Javelin is unlocked in Battlefield 3 by the engineer class.
+</string>
+		<string>Javelin stats
+Weight: 11 KG
+Ammo count: 4 rockets
+Effective range: 1000 meters
+Maximum range: 1500 meters
+Used by: unlocked by both factions
+Hits to disable vehicle: 1 direct hit</string>
+		<string>wLATJAV</string>
+	</array>
+	<key>FIM-92 Stinger</key>
+	<array>
+		<string>FIM-92 Stinger is a portable anti-air missile launcher that was developed in 1970s, and entered service in 1981. The Stinger is unlocked by the US engineer class in Battlefield 3.
+</string>
+		<string>Stinger stats
+Weight: 15 KG
+Ammo count: 4 rockets
+Effective range: 2000 meters
+Maximum range: 4000 meters
+Used by: unlocked by US engineer class
+Hits to disable aircraft: 2 direct hits</string>
+		<string>wLAAFIM</string>
+	</array>
+	<key>SA-18 IGLA</key>
+	<array>
+		<string>The SA-18 IGLA is the Russian counterpart to the Stinger missile, and operates in a similar way. The Igla is unlocked by the Russian engineer in Battlefield 3.
+</string>
+		<string>Igla stats
+Weight: 10 KG
+Ammo count: 4 rockets
+Effective range: 2500 meters
+Maximum range: 3500 meters
+Used by: unlocked by Russian engineer class
+Hits to disable aircraft: 2 direct hits</string>
+		<string>wLAAIGL</string>
+	</array>
+	<key>M27</key>
+	<array>
+		<string>The M27 is the starting LMG for the US side, and is based on the M416 assault rifle, but is fitted with a heavier barrel and larger magazine.
+</string>
+		<string>Stats
+
+Unlocked:	 Default (US) / 170,000 SS (RU)
+Kit:	 Support
+Magazine Size:	 45 Rounds
+Starting Ammo:	 46 / 138
+Max Ammo:	 46 / 230
+Reload Time:	 1.8 - 2.5 Seconds
+Rate of Fire:	 750 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>mgM27</string>
+	</array>
+	<key>RPK</key>
+	<array>
+		<string>The RPK is the starting LMG for the Russian side in Battlefield 3, and is based on the AK74, fitted with a heavier barrel and larger magazine.
+</string>
+		<string>Stats
+
+Unlocked:	 Default (RU) / 170,000 SS (US)
+Kit:	 Support
+Magazine Size:	 45 Rounds
+Starting Ammo:	 46 / 138
+Max Ammo:	 46 / 230
+Reload Time:	 2.5 - 3.5 Seconds
+Rate of Fire:	 600 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>mgRPK</string>
+	</array>
+	<key>M249</key>
+	<array>
+		<string>The M249 light machine gun, also called the SAW (Squad Automatic Weapon), has been the main light machine gun of the US Army since its introduction in 1984. It is the first LMG to be unlocked in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 11,000 SS
+Kit:	 Support
+Magazine Size:	 100 Rounds
+Extended Mag:	 200 Rounds
+Starting Ammo:	 100 / 200
+Max Ammo:	 100 / 400
+E. Mag Starting Ammo:	 200 / 200
+E. Mag Max Ammo:	 200 / 400
+Reload Time:	 6 Seconds
+Rate of Fire:	 800 RPM
+Fire Modes:	 Full Auto</string>
+		<string>mgM249</string>
+	</array>
+	<key>M240</key>
+	<array>
+		<string>The M240 is a Belgian designed light machine gun that has been used in the United States armed forces from the 1980s. The M240 is not only used as an LMG for infantry, but is used extensively as a mounted LMG on helicopters, cars, boats, and other vehicles as well.
+</string>
+		<string>Stats
+
+Unlocked:	 90,000 SS
+Kit:	 Support
+Magazine Size:	 100 Rounds
+Extended Mag:	 200 Rounds
+Starting Ammo:	 100 / 200
+Max Ammo:	 100 / 400
+E. Mag Starting Ammo:	 200 / 200
+E. Mag Max Ammo:	 200 / 400
+Reload Time:	 6 Seconds
+Rate of Fire:	 750 RPM
+Fire Modes:	 Full Auto</string>
+		<string>mgM420</string>
+	</array>
+	<key>M60</key>
+	<array>
+		<string>The M60 is a tried and tested light machine gun and returns in Battlefield 3 as an unlock. The M60 offers great balance between range, accuracy and firepower.
+</string>
+		<string>Stats
+
+Unlocked:	 130,000 SS
+Kit:	 Support
+Magazine Size:	 100 Rounds
+Extended Mag:	 200 Rounds
+Starting Ammo:	 100 / 200
+Max Ammo:	 100 / 400
+E. Mag Starting Ammo:	 200 / 200
+E. Mag Max Ammo:	 200 / 400
+Reload Time:	 7.5 Seconds
+Rate of Fire:	 500 RPM
+Fire Modes:	 Full Auto</string>
+		<string>mgM60</string>
+	</array>
+	<key>PKP Pecheneg</key>
+	<array>
+		<string>The PKP Pecheneg is a relatively new Russian light machine gun, and is a modernized version of the popular PKM machine gun, with an improved barrel and internal mechanics. The Pecheneg is available as an unlock in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 60,000 SS
+Kit:	 Support
+Magazine Size:	 100 Rounds
+Extended Mag:	 200 Rounds
+Starting Ammo:	 100 / 200
+Max Ammo:	 100 / 400
+E. Mag Starting Ammo:	 200 / 200
+E. Mag Max Ammo:	 200 / 400
+Reload Time:	 5.5 Seconds
+Rate of Fire:	 650 RPM
+Fire Modes:	 Full Auto</string>
+		<string>mgPech</string>
+	</array>
+	<key>Type 88</key>
+	<array>
+		<string>The Type 88 LMG, also known as the QJY 88, is a Chinese made general purpose machine gun introduced in 1988 and in use today. The Type 88 is one of the unlockable LMGS in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	Physical Warfare Pack, Back to Karkand
+Kit:	 Support
+Magazine Size:	 100 Rounds
+Extended Mag:	 200 Rounds
+Starting Ammo:	 100 / 200
+Max Ammo:	 100 / 400
+E. Mag Starting Ammo:	 200 / 200
+E. Mag Max Ammo:	 200 / 400
+Reload Time:	 7.5 Seconds
+Rate of Fire:	 700 RPM
+Fire Modes:	 Full Auto</string>
+		<string>mgT88</string>
+	</array>
+	<key>UMP-45</key>
+	<array>
+		<string>The UMP-45 is a Personal Defense Weapon made by German weapon manufacturer Heckler &amp; Koch in the 1990s. It is used by many nations, including the United States. The UMP-45 fires the .45ACP cartridge, effective at close range.
+
+A submachine gun using the powerful .45 round, the UMP-45 is more versatile than other PDW weapons. With 3 modes of fire, including a 2 round burst, it is meant for medium range encounters where the low recoil can keep shots on target. It has a 25 round magazine, which can be quickly expended, making an already slow reload even longer.</string>
+		<string>Stats
+
+Unlocked:	 Rank 16
+Kit:	 All
+Magazine Size:	 25 Rounds
+Starting Ammo:	 26 / 104
+Max Ammo:	 26 / 182
+Reload Time:	 1.7 - 2.5 Seconds
+Rate of Fire:	 600 RPM
+Fire Modes:	 Full Auto / 2 Round / Semi Auto</string>
+		<string>smUMP</string>
+	</array>
+	<key>AKS 74U</key>
+	<array>
+		<string>The AKS 74U, based on the AK-74 with a shorter barrel and lighter construction, is the main carbine for the Russian special forces. It’s also the main carbine for the Russian engineer class in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 Default (RU) / 145,000 ES (US)
+Kit:	 Engineer
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 1.5 - 2.5 Seconds
+Rate of Fire:	 650 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>caAKS</string>
+	</array>
+	<key>M4A1</key>
+	<array>
+		<string>The M4A1 is a popular carbine among US forces, and returns in Battlefield 3 as the starting carbine rifle for the US engineer class.
+</string>
+		<string>Stats
+
+Unlocked:	 Default (US) / 145,000 ES (RU)
+Kit:	 Engineer
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 1.7 - 2 Seconds
+Rate of Fire:	 800 RPM
+Fire Modes:	 Full Auto / Semi Auto
+Unlocked:	 40,000 ES
+Kit:	 Engineer
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 1.7 - 2 Seconds
+Rate of Fire:	 800 RPM
+Fire Modes:	 2 Round / Semi Auto</string>
+		<string>caM4</string>
+	</array>
+	<key>SCAR-H</key>
+	<array>
+		<string>The FN SCAR-H is a fully automatic carbine rifle based on the SCAR-L and is an unlock for the engineer class in Battlefield 3.
+</string>
+		<string>Battlefield 3 SCAR-H stats
+Single shot/3-round burst/full auto modes
+Maximum effective range: 300m
+Rate of fire: 625 RPM
+Weight: 3.5 KG
+Ammo capacity: 30 rounds</string>
+		<string>caSCAR</string>
+	</array>
+	<key>G36C</key>
+	<array>
+		<string>The G36C is a carbine rifle based on the G36, and is the last carbine to be unlocked for the engineer class in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 110,000 ES
+Kit:	 Engineer
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2 - 2.5 Seconds
+Rate of Fire:	 750 RPM
+Fire Modes:	 Full Auto / 2 Round / Semi Auto</string>
+		<string>caG36</string>
+	</array>
+	<key>SG553</key>
+	<array>
+		<string>The SG553 is a Swiss-made carbine rifle based on the SG550 gun. in Battlefield 3, the SG553 is unlocked by the engineer class.
+</string>
+		<string>Stats
+
+Unlocked:	 120,000  CS
+Kit:	 Engineer
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2 - 2.4 Seconds
+Rate of Fire:	 700 RPM
+Fire Modes:	 Full Auto / 3 Round / Semi Auto</string>
+		<string>caSG553</string>
+	</array>
+	<key>P90</key>
+	<array>
+		<string>The P90 is a Personal Defense Weapon developed by Belgian weapon manufacturer FN Herstel in 1990. It is used by many nations, including the United States. The P90 fires the 5.7x28mm armor piercing round, effective at close range.
+
+</string>
+		<string>Stats
+
+Unlocked:	 Rank 40
+Kit:	 All
+Magazine Size:	 50 Rounds
+Starting Ammo:	 51 / 102
+Max Ammo:	 51 / 204
+Reload Time:	 2 - 2.7 Seconds
+Rate of Fire:	 900 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>smP90</string>
+	</array>
+	<key>MP7</key>
+	<array>
+		<string>The MP7A1 is a personal defense weapon developed by the German weapon manufacturer Heckler &amp; Koch in 2001. The A1 variant was produced in 2003. It fires the 4.6x30mm cartridge, effective at close range.</string>
+		<string>Stats
+
+Unlocked:	 34,000 CS
+Kit:	 All
+Magazine Size:	 20 Rounds
+Extended Mag:	 40 Rounds
+Starting Ammo:	 21 / 105
+Max Ammo:	 21 / 168
+E. Mag Starting Ammo:	 41 / 82
+E. Mag Max Ammo:	 41 / 164
+Reload Time:	 2.5 Seconds
+Rate of Fire:	 950 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>smMP7</string>
+	</array>
+	<key>PP-2000</key>
+	<array>
+		<string>The PP-2000 is a Russian made Personal Defense Weapon. Like the name implies, it was first designed in 2000. The PP-2000 fires the 9x19mm cartridge, effective at close range.
+
+The PP-2000 combines accurate hip fire and steady rate of fire for a weapon perfect for close range. The 20 round clip reduces effectiveness, forcing more reloads in between firefights.
+
+</string>
+		<string>Stats
+
+Unlocked:	 Rank 7
+Kit:	 All
+Magazine Size:	 20 Rounds
+Extended Mag:	 40 Rounds
+Starting Ammo:	 21 / 105
+Max Ammo:	 21 / 168
+E. Mag Starting Ammo:	 41 / 82
+E. Mag Max Ammo:	 41 / 164
+Reload Time:	 2.5 - 3.5 Seconds
+Rate of Fire:	 600 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>smPP2000</string>
+	</array>
+	<key>PDR-W</key>
+	<array>
+		<string>The PDW-R was developed as a Personal Defense Weapon for CQB, but it fires the 5.56x45mm cartridge, which is commonly found in the M16 and M4. It may not be as accurate as rifles, but it can still reach out further than other PDWs.
+
+</string>
+		<string>Stats
+
+Unlocked:	 Rank 32
+Kit:	 All
+Magazine Size:	 20 Rounds
+Extended Mag:	 30 Rounds
+Starting Ammo:	 21 / 105
+Max Ammo:	 21 / 168
+E. Mag Starting Ammo:	 31 / 93
+E. Mag Max Ammo:	 31 / 155
+Reload Time:	 2.5 - 3.3 Seconds
+Rate of Fire:	 750 RPM
+Fire Modes:	 Full Auto / 3 Round / Semi Auto</string>
+		<string>smPDR</string>
+	</array>
+	<key>A-91</key>
+	<array>
+		<string>The A-91 is a Russian-made bullpup-style carbine rifle with an integrated 40mm grenade launcher. It’s still in the testing stages in use at various Russian armed forces. The A-91 can be unlocked by the engineer class in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 58,000 ES
+Kit:	 Engineer
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2 - 3 Seconds
+Rate of Fire:	 800 RPM
+Fire Modes:	 Full Auto / Semi Auto</string>
+		<string>caA91</string>
+	</array>
+	<key>MK11</key>
+	<array>
+		<string>The MK11 is based on the SR-25 assault rifle and provides great accuracy with the benefits of an assault rifle’s larger magazine and mobility. The MK11 is one of the brand new rifles in Battlefield 3, and makes its first appearance in the series.
+</string>
+		<string>Stats
+
+Unlocked:	 Default (US) / 195,000 RS (RU)
+Kit:	 Recon
+Magazine Size:	 10 Rounds
+Starting Ammo:	 11 / 55
+Max Ammo:	 11 / 88
+Reload Time:	 1.8 - 2.2 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>srMK11</string>
+	</array>
+	<key>SVD</key>
+	<array>
+		<string>The SVD in Battlefield 3 is the starting sniper rifle for the Russian side. It’s a semi-automatic sniper rifle that’s been in use for over 50 years.
+</string>
+		<string>Stats
+
+Unlocked:	 Default (RU) / 195,000 RS (US)
+Kit:	 Recon
+Magazine Size:	 10 Rounds
+Starting Ammo:	 11 / 55
+Max Ammo:	 11 / 88
+Reload Time:	 2.5 - 3.2
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>srSVD</string>
+	</array>
+	<key>M40A5</key>
+	<array>
+		<string>The M40A5 sniper rifle in Battlefield 3 is closely related to the M24 which was used in previous Battlefield games.
+</string>
+		<string>Stats
+
+Unlocked:	 104,000 RS
+Kit:	 Recon
+Magazine Size:	 10 Rounds
+Starting Ammo:	 11 / 33
+Max Ammo:	 11 / 55
+Reload Time:	 2.5 - 3.5 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Bolt-Action
+</string>
+		<string>srM40</string>
+	</array>
+	<key>SV98</key>
+	<array>
+		<string>The SV98 is a Russian made bolt action sniper rifle and is available in Battlefield 3 as an unlock for both US and Russian forces.
+</string>
+		<string>Stats
+
+Unlocked:	 13,000 RS
+Kit:	 Recon
+Magazine Size:	 10 Rounds
+Starting Ammo:	 11 / 33
+Max Ammo:	 11 / 55
+Reload Time:	 2.5 - 4 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Bolt-Action</string>
+		<string>srSV98</string>
+	</array>
+	<key>M98B</key>
+	<array>
+		<string>The Barret M98 is a bolt action sniper rifle chambered in .338 Lapua Magnum round, and is one of the last sniper rifles to be unlocked in Battlefield 3.
+</string>
+		<string>Stats
+
+Unlocked:	 146,000 RS
+Kit:	 Recon
+Magazine Size:	 5 Rounds
+Starting Ammo:	 6 / 36
+Max Ammo:	 6 / 60
+Reload Time:	 2.5 - 4.5 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Bolt-Action</string>
+		<string>srM98</string>
+	</array>
+	<key>M39</key>
+	<array>
+		<string>The M39 Enhanced Marksman Rifle is an unlockable semi-automatic sniper rifle in Battlefield 3, and is one of the last sniper rifles to be unlocked.
+</string>
+		<string>Stats
+
+Unlocked:	 58,000 CS
+Kit:	 Recon
+Magazine Size:	 10 Rounds
+Starting Ammo:	 11 / 55
+Max Ammo:	 11 / 88
+Reload Time:	 2.5 - 3.5 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>srM39</string>
+	</array>
+	<key>SKS</key>
+	<array>
+		<string>The SKS is a semi automatic sniper rifle that’s unlocked early in Battlefield 3. The Russian made rifle is great at close and medium ranges, and sports a 20 round magazine.
+</string>
+		<string>Stats
+
+Unlocked:	 71,000 RS
+Kit:	 Recon
+Magazine Size:	 20 Rounds
+Starting Ammo:	 21 / 84
+Max Ammo:	 21 / 147
+Reload Time:	 2 - 3.5 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>srSKS</string>
+	</array>
+	<key>FAMAS</key>
+	<array>
+		<string>The FAMAS is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+It&apos;s a French made Assault Rifle that fires the 5.56x45mm NATO round</string>
+		<string>Stats
+
+Unlocked:	 Heal 10, Revive 10
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 3 - 4 Seconds
+Rate of Fire:	 900 RPM
+Fire Modes:	 Full Auto / 3 Round / Semi Auto</string>
+		<string>arFAMAS</string>
+	</array>
+	<key>L85A2</key>
+	<array>
+		<string>The L85A2 is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+Part of the SA80 family, the L85 is the standard assault rifle of the British armed forces. It fires the 5.56x45mm NATO round.
+
+Its low firerate will help you compensate for the recoil and you will be more accurate.</string>
+		<string>Stats
+
+Unlocked:	 Unlock FAMAS
+100 Kills with Assault Rifles
+20 Kills with Underslung Grenade Launcher
+Win 5 round of Squad Deathmatch
+Kit:	 Assault
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2.5 - 3
+Rate of Fire:	 650 RPM
+Fire Modes:	 Full Auto / 3 Round / Semi Auto</string>
+		<string>arL85A2</string>
+	</array>
+	<key>G53</key>
+	<array>
+		<string>The G53 (also named HK-53) is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+Compact assault rifle developed in Germany. Based on the famous G3 design. It fires the 5.56x45mm NATO round.</string>
+		<string>Stats
+
+Unlocked:	 10 Repairs
+Kill 1 with Repair Torch
+Kit:	 Engineer
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2.2 - 2.8 Seconds
+Rate of Fire:	 750 RPM
+Fire Modes:	 Full Auto / 3 Round Burst / Semi Auto</string>
+		<string>caHK53</string>
+	</array>
+	<key>QBZ-95B</key>
+	<array>
+		<string>The QBZ-95B is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+It&apos;s the Standard service rifle of the Chinese armed forces. The QBZ-95B fires the 5.8x42mm  round.</string>
+		<string>Stats
+
+Unlocked:	 Unlock G53
+50 AT Rocket Kills
+Destroy 1 enemy vehicle with Repair Torch
+Win 4 rounds of Conquest
+Kit:	 Engineer
+Magazine Size:	 30 Rounds
+Starting Ammo:	 31 / 124
+Max Ammo:	 31 / 217
+Reload Time:	 2.5 - 3 Seconds
+Rate of Fire:	 650 RPM
+Fire Modes:	 Full Auto / 3 Round / Semi Auto</string>
+		<string>caQBZ95B</string>
+	</array>
+	<key>QBB-95</key>
+	<array>
+		<string>The QBB-95 is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+It is the Light Machinegun designed in China and used by the PLA. It fires the 5.8x42mm WP round. Note all Chinese guns added in Back To Karland all shoot the 5.8x42mm round.</string>
+		<string>Stats
+
+Unlocked:	 20 Kills with LMGs
+2 Mortar Kills
+Kit:	 Support
+Magazine Size:	 75 Rounds
+Extended Mag:	 100 Rounds
+Starting Ammo:	 76 / 152
+Max Ammo:	 76 / 304
+E. Mag Starting Ammo:	 101 / 101
+E. Mag Max Ammo:	 101 / 202
+Reload Time:	 3.5 - 4 Seconds
+Rate of Fire:	 650 RPM
+Fire Modes:	 Full Auto / 3 Round / Semi Auto</string>
+		<string>mgQBB95</string>
+	</array>
+	<key>MG36</key>
+	<array>
+		<string>The MG36 is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+It is the machine gun version of the German G36. This MG model is no longer in production. It fires the 5.56x45mm NATO round.</string>
+		<string>Stats
+
+Unlocked:	 Unlock QBB-95
+100 Kills with LMGs
+50 Suppression Assists
+50 Ammo Resupplies
+Kit:	 Support
+Magazine Size:	 50 Rounds
+Extended Mag:	 100 Rounds
+Starting Ammo:	 51 / 153
+Max Ammo:	 51 / 255
+E. Mag Starting Ammo:	 101 / 101
+E. Mag Max Ammo:	 101 / 202
+Reload Time:	 3 - 4.5 Seconds
+Rate of Fire:	 750 RPM
+Fire Modes:	 Full Auto / 2 Round / Semi Auto
+</string>
+		<string>mgMG36</string>
+	</array>
+	<key>QBU-88</key>
+	<array>
+		<string>The QBU-88 is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+The QBU-88 is a Semi-automated sniper rifle of Chinese design. It fires the 5.8x42mm round. Note the QBZ chinese family of firearms all fire the 5.8x42mm round and not the 5.45x39mm which is used in the AK 74.</string>
+		<string>Stats
+
+Unlocked:	 20 kills with Sniper Rifles
+5 Laser Designations
+Kit:	 Recon
+Magazine Size:	 10 Rounds
+Starting Ammo:	 11 / 55
+Max Ammo:	 11 / 88
+Reload Time:	 2.5 - 3.5 Seconds
+Rate of Fire:	 N/A
+Fire Modes:	 Semi Auto</string>
+		<string>srQBU88</string>
+	</array>
+	<key>L96</key>
+	<array>
+		<string>The L96 is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+It&apos;s a British made, high performance sniper rifle. Widely used across Europe. It fires the 7.62x51mm NATO round.</string>
+		<string>Stats
+
+Unlocked:	 Unlock QBU-88
+50 Headshots
+50 Spot Assists
+5 Knife takedowns
+Kit:	 Recon
+Magazine Size:	 10 Rounds
+Starting Ammo:	 11 / 33
+Max Ammo:	 11 / 55
+Reload Time:	 2.5 - 4
+Rate of Fire:	 N/A
+Fire Modes:	 Bolt-Action</string>
+		<string>srL96</string>
+	</array>
+	<key>PP-19</key>
+	<array>
+		<string>The PP-19 is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+The PP-19 is a Submachinegun developed in Russia, featuring a helical high capacity magazine. It fires the 9x19mm Parabellum round.</string>
+		<string>Stats
+
+Unlocked:	 Arm 10 MCOMs
+Capture 10 Flags
+Play 2 hours on Strike at Karkand
+Kit:	 All
+Magazine Size:	 54 Rounds
+Starting Ammo:	 55 / 110
+Max Ammo:	 55 / 220
+Reload Time:	 2.5 - 3.5 Seconds
+Rate of Fire:	 900 RPM
+Fire Modes:	 Full Auto</string>
+		<string>smPP19</string>
+	</array>
+	<key>MK3A1</key>
+	<array>
+		<string>The MK3A1 is one of ten new weapons available in the Back to Karkand Expansion Pack.
+
+The MK3A1 (AKA Jackhammer) is a fully automatic Shotgun prototype developed in the US.</string>
+		<string></string>
+		<string>sgJackH</string>
+	</array>
+</dict>
+</plist>

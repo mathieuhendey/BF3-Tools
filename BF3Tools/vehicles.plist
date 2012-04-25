@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ground Vehicles</key>
+	<array>
+		<string>LAV-AD</string>
+		<string>9K22 TUNGUSKA-M</string>
+		<string>T-90A</string>
+		<string>M1 ABRAMS</string>
+		<string>BMP-2M</string>
+		<string>BTR-90</string>
+		<string>LAV-25</string>
+		<string>AAV-7A1 AMTRAC</string>
+		<string>RHIB Boat</string>
+		<string>VDV Buggy</string>
+		<string>M1114 HMMWV</string>
+		<string>GAZ-3937 Vodnik</string>
+		<string>Growler ITV</string>
+	</array>
+	<key>Aircraft</key>
+	<array>
+		<string>SU-25TM FROGFOOT</string>
+		<string>F/A-18E SUPER HORNET</string>
+		<string>SU-35BM FLANKER-E</string>
+		<string>AH-6J Little Bird</string>
+		<string>Z-11W</string>
+		<string>A-10 Thunderbolt</string>
+		<string>UH-1Y Venom</string>
+		<string>KA-60 Kasatka</string>
+		<string>AH-1Z Viper</string>
+		<string>MI-28 Havoc</string>
+	</array>
+	<key>Static Emplacements</key>
+	<array>
+		<string>CENTURION C-RAM</string>
+		<string>PANTSIR-S1</string>
+		<string>M220 TOW LAUNCHER</string>
+		<string>9M133 KORNET LAUNCHER</string>
+	</array>
+</dict>
+</plist>

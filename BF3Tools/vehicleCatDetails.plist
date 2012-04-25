@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Air Helicopter Scout</key>
+	<array>
+		<string>vehiclesh</string>
+	</array>
+	<key>Air Jet Attack</key>
+	<array>
+		<string>vehicleja</string>
+	</array>
+	<key>Infantry Fighting Vehicle</key>
+	<array>
+		<string>vehicleifv</string>
+	</array>
+	<key>Air Helicopter Attack</key>
+	<array>
+		<string>vehicleah</string>
+	</array>
+	<key>Main Battle Tanks</key>
+	<array>
+		<string>vehiclembt</string>
+	</array>
+	<key>Anti Air</key>
+	<array>
+		<string>vehicleaa</string>
+	</array>
+	<key>Air Jet Fighter</key>
+	<array>
+		<string>vehiclejf</string>
+	</array>
+</dict>
+</plist>

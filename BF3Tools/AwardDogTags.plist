@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<array>
+		<string>ASSAULT RIFLE </string>
+		<string>dtb001.png</string>
+		<string>Obtain Assault Rifle Efficiency Ribbon 10 Times</string>
+	</array>
+	<key>Item 1</key>
+	<array>
+		<string>CARBINE </string>
+		<string>dtb002.png</string>
+		<string>Obtain Carbine Efficiency Ribbon 10 Times</string>
+	</array>
+	<key>Item 2</key>
+	<array>
+		<string>LIGHT MACHINE GUN </string>
+		<string>dtb003.png</string>
+		<string>Obtain Light Machin Gun Efficiency Ribbon 10 Times</string>
+	</array>
+	<key>Item 3</key>
+	<array>
+		<string>SNIPER RIFLE </string>
+		<string>dtb004.png</string>
+		<string>Obtain Sniper Rifle Efficiency Ribbon 10 Times</string>
+	</array>
+	<key>Item 4</key>
+	<array>
+		<string>SHOTGUN </string>
+		<string>dtb005.png</string>
+		<string>Obtain Shotgun Ribbon 10 Times</string>
+	</array>
+	<key>Item 5</key>
+	<array>
+		<string>PDW</string>
+		<string>dtb006.png</string>
+		<string>Obtain PDW Ribbon 10 Times</string>
+	</array>
+	<key>Item 6</key>
+	<array>
+		<string>HANDGUN </string>
+		<string>dtb007.png</string>
+		<string>Obtain Handgun Ribbon 10 Times</string>
+	</array>
+	<key>Item 7</key>
+	<array>
+		<string>MÊLÉE</string>
+		<string>dtb008.png</string>
+		<string>Obtain Mêlée Ribbon 10 Times</string>
+	</array>
+	<key>Item 8</key>
+	<array>
+		<string>RESUPPLY</string>
+		<string>dtb039.png</string>
+		<string>Obtain Resupply Efficiency Ribbon 10 Times</string>
+	</array>
+	<key>Item 9</key>
+	<array>
+		<string>MAINTENANCE</string>
+		<string>dtb037.png</string>
+		<string>Obtain Maintenance Efficiency Ribbon 10 Times</string>
+	</array>
+	<key>Item 10</key>
+	<array>
+		<string>MEDICAL</string>
+		<string>dtb038.png</string>
+		<string>Obtain Medical Efficiency Ribbon 10 Times</string>
+	</array>
+	<key>Item 11</key>
+	<array>
+		<string>SURVEILLANCE</string>
+		<string>dtb040.png</string>
+		<string>Obtain Surveillance Efficiency Ribbon 10 Times</string>
+	</array>
+	<key>Item 12</key>
+	<array>
+		<string>TRANSPORT WARFARE </string>
+		<string>dtb019.png</string>
+		<string>Obtain Transport Warfare Ribbon 10 Times</string>
+	</array>
+	<key>Item 13</key>
+	<array>
+		<string>ARMORED WARFARE </string>
+		<string>dtb020.png</string>
+		<string>Obtain Armored Warfare Ribbon 10 Times</string>
+	</array>
+	<key>Item 14</key>
+	<array>
+		<string>AIR WARFARE </string>
+		<string>dtb022.png</string>
+		<string>Obtain Air Warfare Ribbon 10 Times</string>
+	</array>
+	<key>Item 15</key>
+	<array>
+		<string>STATIONARY</string>
+		<string>dtb021.png</string>
+		<string>Obtain Stationary Emplacement Ribbon 10 Times</string>
+	</array>
+	<key>Item 16</key>
+	<array>
+		<string>ANTI VEHICLE </string>
+		<string>dtb009.png</string>
+		<string>Obtain Anti Vehicle Ribbon 10 Times</string>
+	</array>
+	<key>Item 17</key>
+	<array>
+		<string>ACCURACY</string>
+		<string>dtb010.png</string>
+		<string>Obtain Accuracy Ribbon 10 Times</string>
+	</array>
+	<key>Item 18</key>
+	<array>
+		<string>AVENGER</string>
+		<string>dtb011.png</string>
+		<string>Obtain Avenger Ribbon 10 Times</string>
+	</array>
+	<key>Item 19</key>
+	<array>
+		<string>SAVIOUR</string>
+		<string>dtb012.png</string>
+		<string>Obtain Saviour Ribbon 10 Times</string>
+	</array>
+	<key>Item 20</key>
+	<array>
+		<string>NEMESIS</string>
+		<string>dtb013.png</string>
+		<string>Obtain Nemesis Ribbon 10 Times</string>
+	</array>
+	<key>Item 21</key>
+	<array>
+		<string>SUPPRESSION</string>
+		<string>dtb014.png</string>
+		<string>Obtain Suppression Ribbon 10 Times</string>
+	</array>
+	<key>Item 22</key>
+	<array>
+		<string>MVP</string>
+		<string>dtb015.png</string>
+		<string>Obtain MVP Ribbon 10 Times</string>
+	</array>
+	<key>Item 23</key>
+	<array>
+		<string>2ND MVP </string>
+		<string>dtb016.png</string>
+		<string>Obtain 2nd MVP Ribbon 10 Times</string>
+	</array>
+	<key>Item 24</key>
+	<array>
+		<string>3RD MVP </string>
+		<string>dtb017.png</string>
+		<string>Obtain 3rd MVP Ribbon 10 Times</string>
+	</array>
+	<key>Item 25</key>
+	<array>
+		<string>ACE SQUAD </string>
+		<string>dtb018.png</string>
+		<string>Obtain Ace Squad Ribbon 10 Times</string>
+	</array>
+	<key>Item 26</key>
+	<array>
+		<string>RUSH</string>
+		<string>dtb030.png</string>
+		<string>Obtain Rush Ribbon 10 Times</string>
+	</array>
+	<key>Item 27</key>
+	<array>
+		<string>RUSH WINNER </string>
+		<string>dtb025.png</string>
+		<string>Obtain Rush Winner Ribbon 10 Times</string>
+	</array>
+	<key>Item 28</key>
+	<array>
+		<string>M-COM ATTACKER </string>
+		<string>dtb023.png</string>
+		<string>Obtain M-COM Attacker Ribbon 10 Times</string>
+	</array>
+	<key>Item 29</key>
+	<array>
+		<string>M-COM DEFENDER </string>
+		<string>dtb024.png</string>
+		<string>Obtain M-COM Defender Ribbon 10 Times</string>
+	</array>
+	<key>Item 30</key>
+	<array>
+		<string>CONQUEST </string>
+		<string>dtb031.png</string>
+		<string>Obtain Conquest Ribbon 10 Times</string>
+	</array>
+	<key>Item 31</key>
+	<array>
+		<string>FLAG ATTACKER </string>
+		<string>dtb035.png</string>
+		<string>Obtain Flag Attacker Ribbon 10 Times</string>
+	</array>
+	<key>Item 32</key>
+	<array>
+		<string>TEAM DEATHMATCH </string>
+		<string>dtb032.png</string>
+		<string>Obtain Team Deathmatch Ribbon 10 Times</string>
+	</array>
+	<key>Item 33</key>
+	<array>
+		<string>TEAM DEATHMATCH WINNER </string>
+		<string>dtb027.png</string>
+		<string>Obtain Team Deathmatch Winner Ribbon 10 Times</string>
+	</array>
+	<key>Item 34</key>
+	<array>
+		<string>SQUAD RUSH </string>
+		<string>dtb033.png</string>
+		<string>Obtain Squad Rush Ribbon 10 Times</string>
+	</array>
+	<key>Item 35</key>
+	<array>
+		<string>SQUAD RUSH WINNER </string>
+		<string>dtb028.png</string>
+		<string>Obtain Squad Rush Winner Ribbon 10 Times</string>
+	</array>
+	<key>Item 36</key>
+	<array>
+		<string>SQUAD DEATHMATCH </string>
+		<string>dtb034.png</string>
+		<string>Obtain Squad Deathmatch Ribbon 10 Times</string>
+	</array>
+	<key>Item 37</key>
+	<array>
+		<string>ASSAULT</string>
+		<string>dtb085.png</string>
+		<string>Obtain Assault Service Star 1</string>
+	</array>
+	<key>Item 38</key>
+	<array>
+		<string>ENGINEER </string>
+		<string>dtb086.png</string>
+		<string>Obtain Engineer Service Star 1</string>
+	</array>
+	<key>Item 39</key>
+	<array>
+		<string>SUPPORT </string>
+		<string>dtb087.png</string>
+		<string>Obtain Support Service Star 1</string>
+	</array>
+	<key>Item 40</key>
+	<array>
+		<string>RECON</string>
+		<string>dtb088.png</string>
+		<string>Obtain Recon Service Star 1</string>
+	</array>
+</dict>
+</plist>

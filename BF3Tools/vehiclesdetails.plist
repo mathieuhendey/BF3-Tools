@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LAV-AD</key>
+	<array>
+		<string>The LAV-AD is a mobile Anti Air version of the United States LAV-25. Only one player can drive the LAV-AD and use the armor piercing mini-gun attached to it. The mini-gun is great for Anti-Air, but it can also take out IFVs and Jeeps.</string>
+	</array>
+	<key>9K22 TUNGUSKA-M</key>
+	<array>
+		<string>The 9K22 Tunguska-M is a Russian mobile Anti Air vehicle. Only one player can drive the Tunguska and use the armor piercing mini-gun attached to it. The mini-gun is great for Anti-Air, but it can also take out IFVs and Jeeps.</string>
+	</array>
+	<key>T-90A</key>
+	<array>
+		<string>The T-90A is the Main Battle Tank for the Russian Army. It seats two players: one driver that controls the cannon and one player that controls the mounted machine gun.</string>
+	</array>
+	<key>M1 ABRAMS</key>
+	<array>
+		<string>The M1 Abrams is the Main Battle Tank for the United States Marine Corps. It seats two players: one driver who controls the cannon and one driver who controls the mounted machine gun.</string>
+	</array>
+	<key>BMP-2M</key>
+	<array>
+		<string>The BMP-2M is the Infantry Fighting Vehicle for the Russian Army. It seats six players: one driver that controls a six shot cannon, one player that controls the heavy mounted machine gun, and four passengers that can uses light machine guns on the sides.</string>
+	</array>
+	<key>BTR-90</key>
+	<array>
+		<string>Russian, wheeled, armoured personell carrier. Bigger and better equipped than its predecessor, the BTR-90 can withstand the impact of 14.5mm projectiles.
+
+It seats six players: one driver that controls a six shot cannon, one player that controls the heavy mounted machine gun, and four passengers that can uses light machine guns on the sides.</string>
+	</array>
+	<key>LAV-25</key>
+	<array>
+		<string>The LAV-25 is the Infantry Fighting Vehicle for the United States Marine Corps. It seats six players: one driver that controls a six shot cannon, one player that controls the heavy mounted machine gun, and four passengers that can uses light machine guns on the sides.</string>
+	</array>
+	<key>AAV-7A1 AMTRAC</key>
+	<array>
+		<string>The AAV-7A1 AMTRAC is a United States amphibious transport vehicle. It seats six players: one driver, one gunner, and four passengers. The gunner can alternate between a 9 round light cannon and a heavy machine gun.</string>
+	</array>
+	<key>RHIB Boat</key>
+	<array>
+		<string>The RHIB is the only boat in Battlefield 3. It&apos;s used mainly for transport purposes. The RHIB seats four players: one driver, one machine gunner, and two passengers.
+
+</string>
+	</array>
+	<key>VDV Buggy</key>
+	<array>
+		<string>The VDV Buggy is a Russian Paratrooper light buggy. It seats three players: one driver, one passenger, and one machine gunner.</string>
+	</array>
+	<key>M1114 HMMWV</key>
+	<array>
+		<string>The M1114 HMMWV (Humvee) is a United States armored jeep. It seats four players: one driver, one machine gunner, and two passengers. As one of the most famous vehicles of the United States Army, the Humvee is challenged by the Russian-made GAZ-3937 Vodnik.</string>
+	</array>
+	<key>GAZ-3937 Vodnik</key>
+	<array>
+		<string>The GAZ-3937 Vodnik is a Russian armored vehicle, playing the counter-part to the American Humvee. It seats four players: one driver, one machine gunner, and two passengers. Typically, where one of the vehicles is available, the other can also be accessed by the enemy team (in Conquest; the same does not apply to Rush).</string>
+	</array>
+	<key>Growler ITV</key>
+	<array>
+		<string>The Growler ITV (internally transportable vehicle) is a United States light buggy. It seats three players: one driver, one passenger, and one machine gunner. Using the Browning M2 as its mounted machine gun, the main risk for the Growler comes from heavier vehicles and the exposure of its occupants: shooting a driver or passenger in a stationary Growler is an easy task due to the lack of doors or rear coverage.</string>
+	</array>
+	<key>SU-25TM FROGFOOT</key>
+	<array>
+		<string>The SU-25TM Frogfoot is a Soviet Close Air Support (CAS) plant. Nicknamed Grach by the Russians and Frogfoot by the United States. Only one player can operate the SU-25TM and the minigun that&apos;s attached to it.</string>
+	</array>
+	<key>F/A-18E SUPER HORNET</key>
+	<array>
+		<string>The F/A-18E Super Hornet is a multirole United States Jet Fighter. This plane is suited to an anti air role as it flys faster than the A10 Thunderbolt.</string>
+	</array>
+	<key>SU-35BM FLANKER-E</key>
+	<array>
+		<string>The Sukhoi SU-35 (NATO reporting name Flanker-E) is a Russian Fighter Jet.
+
+The Su-35 is the next generation fighter jet for the Russian Army, and so far, only two dozen aircraft have been built. The fighter jet is a long rage, multipurpose jet capable of air and ground attacks, and is loaded with state of the art technology and guidance systems. There are several variants of the jet, including long rage and two-seater versions.</string>
+	</array>
+	<key>AH-6J Little Bird</key>
+	<array>
+		<string>The AH-6J Little Bird is an improved attack version of the MH-6. It&apos;s used by the United States Marine Corps. It seats four players: one driver, who controls a minigun, and three passengers.
+
+</string>
+	</array>
+	<key>Z-11W</key>
+	<array>
+		<string>The Z-11W is an armed military version of the Chinese helicopter Z-11. It seats four players: one driver, who controls a minigun, and three passengers.</string>
+	</array>
+	<key>A-10 Thunderbolt</key>
+	<array>
+		<string>The A-10 Thunderbolt( more commonly known as the Warthog) is a United States Air Force Jet. Designed to provide Close Air Support (CAS) of ground forces by attacking ground targets with limited AA capability. Only one player can operate the A-10 and the minigun that&apos;s attached to it.</string>
+	</array>
+	<key>UH-1Y Venom</key>
+	<array>
+		<string>The UH-1Y is the newest version of the United States transport Helicopter “Twin Huey.” It seats five players: one pilot and four passengers.</string>
+	</array>
+	<key>KA-60 Kasatka</key>
+	<array>
+		<string>The KA-60 KASATKA is the newest Russian utility Helicopter. It will be replacing the Mi-8. The KA-60 seats five players: one driver, two mini-gunners, and two passengers.</string>
+	</array>
+	<key>AH-1Z Viper</key>
+	<array>
+		<string>The AH-1Z Viper is the Attack Helicopter for the United States Marine Corps. It seats two players: the pilot that controls a 14 shot rocket pod and a gunner that operates a 30 shot cannon. Also known as the Super Cobra this helicopter is an updated version of the one used in Vietnam.</string>
+	</array>
+	<key>MI-28 Havoc</key>
+	<array>
+		<string>The MI-28 Havoc is the Attack Helicopter for the Russian Army. It seats two players: the pilot that controls a 14 shot rocket pod and a gunner that operates a 30 shot cannon.</string>
+	</array>
+	<key>CENTURION C-RAM</key>
+	<array>
+		<string>The CENTURION C-RAM is the United States Land-based version of the Phalanx CIWS (Close-in Weapon System).
+
+The Centurion is available on maps with Jets.</string>
+	</array>
+	<key>PANTSIR-S1</key>
+	<array>
+		<string>The PANTSIR-S1 is Russia’s SA-19/SA-N-11 (Tunguska) mobile AA artillery system parked on a stationary platform.
+
+The Pantsir is available on maps with Jets.</string>
+	</array>
+	<key>M220 TOW LAUNCHER</key>
+	<array>
+		<string>The M220 TOW is a United States Stationary Wire-Guided Anti Tank Missile. You can find it on just about any Rush or Conquest map. Move the optics once the missile is fired to guide it in mid air. The launcher will take seven seconds to reload each missile.</string>
+	</array>
+	<key>9M133 KORNET LAUNCHER</key>
+	<array>
+		<string>The 9M133 KORNET is a Russian Stationary Wire-Guided Anti Tank Missile. You can find it on just about any Rush or Conquest map. Move the optics once the missile is fired to guide it in mid air. The launcher will take seven seconds to reload each missile.</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+BF3 Tools iPhone app with BF3 stats support
++++++++++++++++++++++++++++++++++++++++++++
+
+- Requires iOS 5.0 SDK
+- Uses Storyboards and ARC
+- Horribly organised at the minute :(

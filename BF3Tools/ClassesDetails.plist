@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Assault</key>
+	<array>
+		<string>The Assault kit makes up the basic fighting infantry unit in a squad. Equipped with both a powerful assault rifle and life saving defibrillators, this kit promotes both offensive and defensive play styles
+
+The standard weapon of the Assault kit, the assault rifle, is a versatile form of gun that can engage the enemy at any range. They generally have a high rate of fire that allow for close range engagements, and accurate, burst or single fire shots for taking targets out at long ranges. Assault rifles can equip a variety of different accessories, from long range scopes to laser sights.
+
+The first gadget used by the Assault kit is a Medic bag, a deployable health kit that renerates the health of teammates around it. Useful for defensive and support minded players who want to keep the team alive. On the opposite end, the medic bag can be replaced with either the M320 grenade launcher, useful for damaging vehicles and destroying buildings, or the M26 MASS, an undermounted shotgun that excells in close range combat.
+
+All Assault kits come with Defibrillators, used to revive recently dead teammates. This gadget can keep a team alive and advancing, and is essential for any team to win a game.</string>
+	</array>
+	<key>Engineer</key>
+	<array>
+		<string>The Engineer kit is a jack of all trades set of tools for use on the battlefield. Equipped with short range carbines, a variety of explosives, and repair tools, this kit can handle many different situations on the battlefield in a variety of different ways.
+
+The carbines used by engineers give them superior close range attack power, while still retaining some mid to long range capability. Essentially shortened, smaller assault rifles, they can be equipped with a variety of different accessories to fit any roll necessary on the battlefield, highlighting their impressive versatility.
+
+All engineers have some form of anti-vehicle launcher equipped. Launchers such as the SMAW (US) or the RPG (RU), a free fire explosive launcher that is also effective against infantry and structures. More dedicated anti-vehicle launchers include the Javelin, which locks onto ground vehicles, and to laser designated aerial vehicles. Pure anti-air launchers like the Stinger and IGLA only lock on to aircraft, but don&apos;t require laser designation.
+
+An engineer&apos;s second gadget can be a simple handheld repair tool, useful for fixing friendly vehicles, a remote controlled EOD bot for remote arming/disarming of MCOM stations, and anti-tank mines which can be laid out on the ground to destroy and disable any enemy vehicle that moves over it.</string>
+	</array>
+	<key>Recon</key>
+	<array>
+		<string>The Recon Kit is for stealthy players who want to help their team without being noticed by the opposing players. Players using the Recon Kit can unlock numerous gadgets to aid in accomplishing this.
+
+The Recon Kit contains Battle Rifles, however it&apos;s the Sniper Rifles that are the trademark of the class. Sniper Rifles typically inflict the most damage of any weapon in a single shot.  They are also the most accurate, which is beneficial when firing on enemies at long ranges.  As a trade-off, both of these benefits come at the substantially longer time it takes to fire successive shots when compared to other weapons.  Also, these rifles will have far less ammunition than an assault rifle, carbine, or light machine gun.  A skilled sniper will be able to kill enemies with a single shot to the head, but in close quarters combat they are typically heavily dependent on their secondary weapon (pistol).
+
+In Battlefield 3, the Recon class has unlockable gadgets that help it stay true to it&apos;s purpose--namely, gathering reconnaissance on enemies and moving in undetected. These gadets mainly work by allowing the user to locate where enemies are, or to provide a lock-on mechanism to aid teammates in destroying vehicles.  The Recon Kit also allows for the use of a deployable mobile spawn point, giving squadmates an advanced place to spawn even when all squad members are dead.</string>
+	</array>
+	<key>Support</key>
+	<array>
+		<string>The Support kit is for the player that is always just behind the front lines, making sure other teammates have enough ammo to use, and to make sure that the team can advance. Equipped with light machine guns and different forms of supporting gadgets, the Support kit is the definition of the term team player.
+
+The light machine guns (LMG&apos;s) used by Support kits all have high ammo capacities for their magazines, allowing for longer, prolonged engagements with the enemy. However, they are not accurate at longer ranges, with high recoil and long reload times. LMG&apos;s are best suited at laying down suppressing fire on enemies, allowing better equipped teammates to advance and attack.
+
+All Support kits have an ammo pack, which can be deployed on the ground, allowing teammates to replenish and restock their ammo supplies. A must have on any battlefield, it will even allow Engineers to restock their rocket supply, allowing them to continue utilizing anti-vehicle tactics.
+
+Support kits have the option of 3 choices for a second gadget, a pack of C4 explosives, useful for setting up traps and destroying vehicles, a claymore mine that protects entryways and sniper nests, and a mortar launcher that can be used for indirect fire support for allies on the battlefield.</string>
+	</array>
+</dict>
+</plist>

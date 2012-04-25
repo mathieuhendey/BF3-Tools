@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<array>
+		<string>PRIVATE FIRST CLASS DOG TAG </string>
+		<string>dtb041.png</string>
+		<string>Reach Rank Private First Class</string>
+	</array>
+	<key>Item 1</key>
+	<array>
+		<string>PRIVATE FIRST CLASS 1 STAR DOG TAG</string>
+		<string>dtb042.png</string>
+		<string>Reach Rank Private First Class 1 Star</string>
+	</array>
+	<key>Item 2</key>
+	<array>
+		<string>PRIVATE FIRST CLASS 2 STAR DOG TAG</string>
+		<string>dtb043.png</string>
+		<string>Reach Rank Private First Class 2 Star</string>
+	</array>
+	<key>Item 3</key>
+	<array>
+		<string>PRIVATE FIRST CLASS 3 STAR DOG TAG</string>
+		<string>dtb044.png</string>
+		<string>Reach Rank Private First Class 3 Star</string>
+	</array>
+	<key>Item 4</key>
+	<array>
+		<string>LANCE CORPORAL DOG TAG</string>
+		<string>dtb045.png</string>
+		<string>Reach Rank Lance Corporal</string>
+	</array>
+	<key>Item 5</key>
+	<array>
+		<string>LANCE CORPORAL 1 STAR DOG TAG</string>
+		<string>dtb046.png</string>
+		<string>Reach Rank Lance Corporal 1 Star</string>
+	</array>
+	<key>Item 6</key>
+	<array>
+		<string>LANCE CORPORAL 2 STAR DOG TAG</string>
+		<string>dtb047.png</string>
+		<string>Reach Rank Lance Corporal 2 Star</string>
+	</array>
+	<key>Item 7</key>
+	<array>
+		<string>LANCE CORPORAL 2 STAR DOG TAG</string>
+		<string>dtb048.png</string>
+		<string>Reach Rank Lance Corporal 3 Star</string>
+	</array>
+	<key>Item 8</key>
+	<array>
+		<string>CORPORAL DOG TAG</string>
+		<string>dtb049.png</string>
+		<string>Reach Rank Corporal</string>
+	</array>
+	<key>Item 9</key>
+	<array>
+		<string>CORPORAL 1 STAR DOG TAG</string>
+		<string>dtb050.png</string>
+		<string>Reach Rank Corporal 1 Star</string>
+	</array>
+	<key>Item 10</key>
+	<array>
+		<string>CORPORAL 2 STAR DOG TAG</string>
+		<string>dtb051.png</string>
+		<string>Reach Rank Corporal 2 Star</string>
+	</array>
+	<key>Item 11</key>
+	<array>
+		<string>CORPORAL 3 STAR DOG TAG</string>
+		<string>dtb052.png</string>
+		<string>Reach Rank Corporal 3 Star</string>
+	</array>
+	<key>Item 12</key>
+	<array>
+		<string>SERGEANT 1 STAR DOG TAG</string>
+		<string>dtb053.png</string>
+		<string>Reach Rank Sergeant</string>
+	</array>
+	<key>Item 13</key>
+	<array>
+		<string>SERGEANT 2 STAR DOG TAG</string>
+		<string>dtb055.png</string>
+		<string>Reach Rank Sergeant 2 Star</string>
+	</array>
+	<key>Item 14</key>
+	<array>
+		<string>SERGEANT 3 STAR DOG TAG</string>
+		<string>dtb056.png</string>
+		<string>Reach Rank Sergeant 3 Star</string>
+	</array>
+	<key>Item 15</key>
+	<array>
+		<string>STAFF SERGEANT DOG TAG</string>
+		<string>dtb057.png</string>
+		<string>Reach Rank Staff Sergeant</string>
+	</array>
+	<key>Item 16</key>
+	<array>
+		<string>STAFF SERGEANT 1 STAR DOG TAG</string>
+		<string>dtb058.png</string>
+		<string>Reach Rank Staff Sergeant 1 Star</string>
+	</array>
+	<key>Item 17</key>
+	<array>
+		<string>STAFF SERGEANT 2 STAR DOG TAG</string>
+		<string>dtb059.png</string>
+		<string>Reach Rank Staff Sergeant 2 Star</string>
+	</array>
+	<key>Item 18</key>
+	<array>
+		<string>GUNNERY SERGEANT DOG TAG</string>
+		<string>dtb060.png</string>
+		<string>Reach Rank Gunnery Sergeant</string>
+	</array>
+	<key>Item 19</key>
+	<array>
+		<string>GUNNERY SERGEANT 2 STAR DOG TAG</string>
+		<string>dtb062.png</string>
+		<string>Reach Rank Gunnery Sergeant 1 Star</string>
+	</array>
+	<key>Item 20</key>
+	<array>
+		<string>GUNNERY SERGEANT 2 STAR DOG TAG</string>
+		<string>dtb062.png</string>
+		<string>Reach Rank Gunnery Sergeant 2 Star</string>
+	</array>
+	<key>Item 21</key>
+	<array>
+		<string>MASTER SERGEANT DOG TAG</string>
+		<string>dtb063.png</string>
+		<string>Reach Rank Master Sergeant</string>
+	</array>
+	<key>Item 22</key>
+	<array>
+		<string>MASTER SERGEANT 1 STAR DOG TAG</string>
+		<string>dtb064.png</string>
+		<string>Reach Rank Master Sergeant 1 Star</string>
+	</array>
+	<key>Item 23</key>
+	<array>
+		<string>MASTER SERGEANT 2 STAR DOG TAG</string>
+		<string>dtb065.png</string>
+		<string>Reach Rank Master Sergeant 2 Star</string>
+	</array>
+	<key>Item 24</key>
+	<array>
+		<string>FIRST SERGEANT DOG TAG</string>
+		<string>dtb066.png</string>
+		<string>Reach Rank First Sergeant</string>
+	</array>
+	<key>Item 25</key>
+	<array>
+		<string>FIRST SERGEANT 1 STAR DOG TAG</string>
+		<string>dtb067.png</string>
+		<string>Reach Rank First Sergeant 1 Star</string>
+	</array>
+	<key>Item 26</key>
+	<array>
+		<string>FIRST SERGEANT 2 STAR DOG TAG</string>
+		<string>dtb068.png</string>
+		<string>Reach Rank First Sergeant 2 Star</string>
+	</array>
+	<key>Item 27</key>
+	<array>
+		<string>MASTER GUNNERY SERGEANT</string>
+		<string>dtb069.png</string>
+		<string>Reach Rank Master Gunnery Sergeant</string>
+	</array>
+	<key>Item 28</key>
+	<array>
+		<string>MASTER GUNNERY SERGEANT 1 STAR</string>
+		<string>dtb070.png</string>
+		<string>Reach Rank Master Gunnery Sergeant 1 Star</string>
+	</array>
+	<key>Item 29</key>
+	<array>
+		<string>MASTER GUNNERY SERGEANT 2 STAR</string>
+		<string>dtb071.png</string>
+		<string>Reach Rank Master Gunnery Sergeant 2 Star</string>
+	</array>
+	<key>Item 30</key>
+	<array>
+		<string>SERGEANT MAJOR</string>
+		<string>dtb072.png</string>
+		<string>Reach Rank Sergeant Major</string>
+	</array>
+	<key>Item 31</key>
+	<array>
+		<string>SERGEANT MAJOR 1 STAR</string>
+		<string>dtb073.png</string>
+		<string>Reach Rank Sergeant Major 1 Star</string>
+	</array>
+	<key>Item 32</key>
+	<array>
+		<string>SERGEANT MAJOR 2 STAR</string>
+		<string>dtb074.png</string>
+		<string>Reach Rank Sergeant Major 2 Star</string>
+	</array>
+	<key>Item 33</key>
+	<array>
+		<string>WARRANT OFFICER ONE </string>
+		<string>dtb075.png</string>
+		<string>Reach Rank Warrant Officer One</string>
+	</array>
+	<key>Item 34</key>
+	<array>
+		<string>CHIEF WARRANT OFFICER TWO</string>
+		<string>dtb076.png</string>
+		<string>Reach Rank Chief Warrant Officer Two</string>
+	</array>
+	<key>Item 35</key>
+	<array>
+		<string>CHIEF WARRANT OFFICER THREE</string>
+		<string>dtb077.png</string>
+		<string>Reach Rank Chief Warrant Officer Three</string>
+	</array>
+	<key>Item 36</key>
+	<array>
+		<string>CHIEF WARRANT OFFICER FOUR</string>
+		<string>dtb078.png</string>
+		<string>Reach Rank Chief Warrant Officer Four</string>
+	</array>
+	<key>Item 37</key>
+	<array>
+		<string>CHIEF WARRANT OFFICER FIVE </string>
+		<string>dtb079.png</string>
+		<string>Reach Rank Chief Warrant Officer Five</string>
+	</array>
+	<key>Item 38</key>
+	<array>
+		<string>SECOND LIEUTENANT</string>
+		<string>dtb080.png</string>
+		<string>Reach Rank Second Lieutenant</string>
+	</array>
+	<key>Item 39</key>
+	<array>
+		<string>FIRST LIEUTENANT</string>
+		<string>dtb081.png</string>
+		<string>Reach Rank First Lieutenant</string>
+	</array>
+	<key>Item 40</key>
+	<array>
+		<string>CAPTAIN</string>
+		<string>dtb082.png</string>
+		<string>Reach Rank Captain</string>
+	</array>
+	<key>Item 41</key>
+	<array>
+		<string>MAJOR</string>
+		<string>dtb083.png</string>
+		<string>Reach Rank Major</string>
+	</array>
+	<key>Item 42</key>
+	<array>
+		<string>LIEUTENANT COLONEL</string>
+		<string>dtb084.png</string>
+		<string>Reach Rank Lieutenant Colonel</string>
+	</array>
+	<key>Item 43</key>
+	<array>
+		<string>COLONEL </string>
+		<string>dta056.png</string>
+		<string>Reach Rank Colonel</string>
+	</array>
+	<key>Item 44</key>
+	<array>
+		<string>COLONEL SERVICE STAR 5 </string>
+		<string>dta057.png</string>
+		<string>Obtain Colonel Service Star 5</string>
+	</array>
+	<key>Item 45</key>
+	<array>
+		<string>COLONEL SERVICE STAR 10 </string>
+		<string>dta058.png</string>
+		<string>Obtain Colonel Service Star 10</string>
+	</array>
+	<key>Item 46</key>
+	<array>
+		<string>COLONEL SERVICE STAR 25 </string>
+		<string>dta059.png</string>
+		<string>Obtain Colonel Service Star 25</string>
+	</array>
+	<key>Item 47</key>
+	<array>
+		<string>COLONEL SERVICE STAR 50 </string>
+		<string>dta060.png</string>
+		<string>Obtain Colonel Service Star 50</string>
+	</array>
+	<key>Item 48</key>
+	<array>
+		<string>COLONEL SERVICE STAR 100 </string>
+		<string>dta061.png</string>
+		<string>Obtain Colonel Service Star 100</string>
+	</array>
+</dict>
+</plist>

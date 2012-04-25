@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<array>
+		<string>Best Friend Forever</string>
+		<string>a01.png</string>
+		<string>10 Revives
+10 Heals</string>
+	</array>
+	<key>Item 1</key>
+	<array>
+		<string>Professional Russian</string>
+		<string>a02.png</string>
+		<string>100 kills with Assault Rifles
+20 kills with Underslung Grenade Launcher
+Win 5 rounds of SQDM</string>
+	</array>
+	<key>Item 2</key>
+	<array>
+		<string>Fixing it</string>
+		<string>a03.png</string>
+		<string>10 repairs
+Kill 1 enemy with Repair Torch</string>
+	</array>
+	<key>Item 3</key>
+	<array>
+		<string>It Goes Boom!</string>
+		<string>a04.png</string>
+		<string>50 AT rocket kills
+Destroy 1 enemy vehicle with Repair Torch
+Win 5 rounds of Conquest</string>
+	</array>
+	<key>Item 4</key>
+	<array>
+		<string>Let it Rain</string>
+		<string>a05.png</string>
+		<string>20 kills with Light Machine Guns
+2 mortar kills</string>
+	</array>
+	<key>Item 5</key>
+	<array>
+		<string>Keep Your Head Down</string>
+		<string>a06.png</string>
+		<string>100 kills with Light Machine Guns
+50 Suppression Assists
+50 Ammo Resupplies</string>
+	</array>
+	<key>Item 6</key>
+	<array>
+		<string>Specops</string>
+		<string>a07.png</string>
+		<string>20 kills with Sniper Rifles
+5 Laser Designations</string>
+	</array>
+	<key>Item 7</key>
+	<array>
+		<string>Creeping Death</string>
+		<string>a08.png</string>
+		<string>50 Headshots
+50 Spot Assists
+5 Knife takedowns</string>
+	</array>
+	<key>Item 8</key>
+	<array>
+		<string>Familiar Territory</string>
+		<string>a09.png</string>
+		<string>Arm 10 MCOMs
+Capture 10 flags
+Play 2 hours on Karkand</string>
+	</array>
+	<key>Item 9</key>
+	<array>
+		<string>Scarred Veteran</string>
+		<string>a10.png</string>
+		<string>10 Kills with PP-19
+5 kills in DPV Jeeps
+10 Kills in BTR-90 IFV
+Play 2 hours on Sharqi
+Play 2 hours on Gulf of Oman</string>
+	</array>
+</dict>
+</plist>
